@@ -1,2 +1,5 @@
 download
 node_modules
+.ipynb_checkpoints
+package-lock
+modelo_gbc
