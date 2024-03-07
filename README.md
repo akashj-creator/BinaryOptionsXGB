@@ -22,9 +22,13 @@
 
 ## Instruções:
 1 - Clone este repositório para o seu computador.
+
 2 - Abra o notebook `EURUSD_Opcoes_Binarias.ipynb` no Jupyter Notebook.
+
 3 - Execute as células do notebook na ordem.
+
 4 - Analise os resultados e interprete o modelo.
+
 
 ## Observações:
 * Este é um modelo experimental e seu desempenho pode variar em diferentes condições de mercado.
