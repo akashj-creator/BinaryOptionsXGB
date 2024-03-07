@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "dukascopy-cli": "^1.11.0",
-    "dukascopy-node": "^1.34.0"
-  }
-}
