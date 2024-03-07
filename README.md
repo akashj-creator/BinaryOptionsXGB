@@ -8,7 +8,7 @@
   
 <h2>🧐 Features</h2>
 
-*   **Manipulação de dados:**
+* **Manipulação de dados:**
   - Importação de bibliotecas.
   - Carregamento do dataset.
   - Limpeza e pré-processamento dos dados.
@@ -57,4 +57,4 @@ MIT
 
 **Free Software, Hell Yeah!**
 <h2> 🇨🇭 Agradecimentos: </h2>
-Agradecemos à [Dukascopy](https://www.dukascopy.com/ "Dukascopy") por fornecer o dataset utilizado neste estudo.
+Agradecemos à [Dukascopy](https://www.dukascopy.com/) por fornecer o dataset utilizado neste estudo.
