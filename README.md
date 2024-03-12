@@ -50,10 +50,9 @@ Sinta-se à vontade para contribuir com este projeto. Fork o repositório e envi
 *   matplotlib
 *   mplfinance
 
-<h2>🛡️ License</h2>
+<h2>🛡️ Licença</h2>
 
 MIT
 
-**Free Software, Hell Yeah!**
 <h2> 🇨🇭 Agradecimentos </h2>
 Agradecemos à Dukascopy por fornecer o dataset utilizado neste estudo.
