@@ -2,8 +2,7 @@
 
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZVhbloWy5VzCeN7-cCqlUZPeMgGWLV-FWQ&amp;usqp=CAU" alt="project-image"></p>
 
-<p id="description">Este repositório contém um notebook Python que demonstra a criação e o teste de um modelo `GradientBoostingClassifier` para prever entradas de opções binárias (put ou call) para o par EUR/USD. O modelo utiliza uma estratégia que combina correlação de ativos e bandas de Bollinger. O dataset utilizado foi obtido da Dukascopy.</p>
-
+<p id="description">Este repositório contém um notebook Python que demonstra a criação e o teste de um modelo Gradient Boosting Classifier para prever entradas de opções binárias (put ou call) para o par EUR/USD. O modelo utiliza uma estratégia que combina bandas de Bollinger, RSI e stochastic oscillator. O dataset utilizado foi obtido da Dukascopy.</p>
   
   
 <h2>🧐 Features</h2>
@@ -12,7 +11,7 @@
   - Importação de bibliotecas.
   - Carregamento do dataset.
   - Limpeza e pré-processamento dos dados.
-  - Cálculo das bandas de Bollinger.
+  - Cálculo dos indicadores.
   - Geração das features para o modelo.
 * **Treinamento e teste do modelo**
   - Divisão do dataset em conjuntos de treino e teste.
