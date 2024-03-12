@@ -8,19 +8,19 @@
   
 <h2>🧐 Features</h2>
 
-* **Manipulação de dados:**
+* **Manipulação de dados**
   - Importação de bibliotecas.
   - Carregamento do dataset.
   - Limpeza e pré-processamento dos dados.
   - Cálculo das bandas de Bollinger.
   - Geração das features para o modelo.
-* **Treinamento e teste do modelo:**
+* **Treinamento e teste do modelo**
   - Divisão do dataset em conjuntos de treino e teste.
   - Treinamento do modelo `GradientBoostingClassifier`.
   - Avaliação do desempenho do modelo.
   - Visualização das métricas de desempenho.
 
-## Instruções:
+## Instruções
 1 - Clone este repositório para o seu computador.
 
 2 - Abra o notebook `EURUSD_Opcoes_Binarias.ipynb` no Jupyter Notebook.
@@ -30,7 +30,7 @@
 4 - Analise os resultados e interprete o modelo.
 
 
-## Observações:
+## Observações
 * Este é um modelo experimental e seu desempenho pode variar em diferentes condições de mercado.
 * É importante testar o modelo com diferentes parâmetros e configurações para otimizar seu desempenho.
 * O dataset utilizado neste estudo é histórico e não garante a mesma performance em dados futuros.
@@ -51,10 +51,10 @@ Sinta-se à vontade para contribuir com este projeto. Fork o repositório e envi
 *   matplotlib
 *   mplfinance
 
-<h2>🛡️ License:</h2>
+<h2>🛡️ License</h2>
 
 MIT
 
 **Free Software, Hell Yeah!**
 <h2> 🇨🇭 Agradecimentos: </h2>
-Agradecemos à [Dukascopy](https://www.dukascopy.com/) por fornecer o dataset utilizado neste estudo.
+Agradecemos à [Dukascopy](https://www.dukascopy.com) por fornecer o dataset utilizado neste estudo.
