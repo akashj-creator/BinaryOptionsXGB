@@ -35,7 +35,7 @@
 * É importante testar o modelo com diferentes parâmetros e configurações para otimizar seu desempenho.
 * O dataset utilizado neste estudo é histórico e não garante a mesma performance em dados futuros.
 
-<h2>🍰 Contribuições:</h2>
+<h2>🍰 Contribuições</h2>
 
 Sinta-se à vontade para contribuir com este projeto. Fork o repositório e envie pull requests com suas melhorias.
 
@@ -56,5 +56,5 @@ Sinta-se à vontade para contribuir com este projeto. Fork o repositório e envi
 MIT
 
 **Free Software, Hell Yeah!**
-<h2> 🇨🇭 Agradecimentos: </h2>
-Agradecemos à [Dukascopy](https://www.dukascopy.com) por fornecer o dataset utilizado neste estudo.
+<h2> 🇨🇭 Agradecimentos </h2>
+Agradecemos à Dukascopy por fornecer o dataset utilizado neste estudo.
